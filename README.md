@@ -2,7 +2,7 @@
 Shape-Aware synthesis of pathological lung CT scans using CycleGAN for enhanced semi-supervised lung segmentation
 
 
-This is the official implementation of the submitted paper to MIDL 2024 
+This is the official implementation of the submitted paper to SPIE 2025 
 
 Abstract : 
 This paper addresses the problem of pathological lung segmentation, a significant challenge in medical image analysis, particularly pronounced in cases of peripheral opacities (severe fibrosis and condensations) because of the textural similarity between lung tissue and surrounding areas.
