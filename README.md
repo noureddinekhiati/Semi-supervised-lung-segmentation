@@ -15,9 +15,9 @@ For local usage here is the drive link for the weights of the model : https://dr
 
 Copyright Notice
 
-All rights reserved. The model described herein is the proprietary intellectual property of the authors and is developed for the exclusive purpose of submission to [MIDL 2024]. The use of this model, including but not limited to its replication, modification, integration, or inclusion in any other paper, manuscript, or publication, is strictly prohibited until the original paper has been officially published and is publicly accessible.
+All rights reserved. The model described herein is the proprietary intellectual property of the authors and is developed for the exclusive purpose of submission to [SPIE 2025]. The use of this model, including but not limited to its replication, modification, integration, or inclusion in any other paper, manuscript, or publication, is strictly prohibited until the original paper has been officially published and is publicly accessible.
 
-Notwithstanding the above, reviewers assigned by [MIDL 2024] are granted temporary permission to use this model solely for the purpose of evaluating the submitted paper. Reviewers are obligated to maintain confidentiality and to avoid any form of unauthorized use, sharing, or distribution of the model or its components.
+Notwithstanding the above, reviewers assigned by [SPIE 2025] are granted temporary permission to use this model solely for the purpose of evaluating the submitted paper. Reviewers are obligated to maintain confidentiality and to avoid any form of unauthorized use, sharing, or distribution of the model or its components.
 
 Any unauthorized use, sharing, or distribution of this model, or any part thereof, outside the scope of the intended paper submission or the review process, without the express written permission of the authors is strictly forbidden and may result in legal action.
 
